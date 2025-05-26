@@ -1,4 +1,4 @@
-# Pneumatic-Jamming-Gripper
+# Pneumatic Jamming Gripper
 
 This repository contains the mechanical and design files for a low-cost pneumatic granular jamming gripper developed for use with teleoperated collaborative robots. It includes 3D-printable CAD models, hardware schematics, and evaluation data.
 
@@ -51,6 +51,6 @@ See the [LICENSE](LICENSE) file for details.
 
 ## ✍️ Author
 
-Developed by **Khubaib Imran Malik**  
-Part of the final year project at the University of Greater Manchester  
+Developed by **Khubaib Imran Malik** (khubaib.malik5074@gmail.com)
+BEng (Hons) Mechanical Engineering, University of Greater Manchester 
 Supervised by **Dr. Ma Mohin**
