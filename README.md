@@ -9,16 +9,18 @@ The gripper uses a latex balloon filled with coffee grounds, vacuum-sealed using
 ## 📦 Contents
 
 pneumatic-jamming-gripper/
-├── hardware_design/ # SolidWorks + STL files for gripper & mounts
-├── electronics/ # Wiring diagram, BoM
-├── control/ # Optional scripts for pneumatic actuation
-├── evaluation/ # Gripper testing data (e.g., objects, cycles)
-├── docs/ # Setup and usage instructions
-└── README.md
 
-markdown
-Copy
-Edit
+├── hardware_design/ # SolidWorks + STL files for gripper & mounts
+
+├── electronics/ # Wiring diagram, BoM
+
+├── control/ # Optional scripts for pneumatic actuation
+
+├── evaluation/ # Gripper testing data (e.g., objects, cycles)
+
+├── docs/ # Setup and usage instructions
+
+└── README.md
 
 ## 🖨️ 3D Printing Instructions
 
@@ -45,12 +47,13 @@ Edit
 
 ## 📜 License
 
-All designs and documentation in this repository are shared under the  
-**Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+All designs and documentation in this repository are shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
 See the [LICENSE](LICENSE) file for details.
 
 ## ✍️ Author
 
 Developed by **Khubaib Imran Malik** (khubaib.malik5074@gmail.com)
+
 BEng (Hons) Mechanical Engineering, University of Greater Manchester 
+
 Supervised by **Dr. Ma Mohin**
