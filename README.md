@@ -23,7 +23,7 @@ The gripper uses a latex balloon filled with coffee grounds, vacuum-sealed using
 
 ## 📜 License
 
-All designs and documentation in this repository are shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+All designs and documentation in this repository are shared under the **Creative Commons Zero v1.0 Universal** License.  
 See the [LICENSE](LICENSE) file for details.
 
 ## ✍️ Author
