@@ -1,26 +1,10 @@
 # Pneumatic Jamming Gripper
 
-This repository contains the mechanical and design files for a low-cost pneumatic granular jamming gripper developed for use with teleoperated collaborative robots. It includes 3D-printable CAD models, hardware schematics, and evaluation data.
+This repository contains the design files and guide for a low-cost pneumatic granular jamming gripper developed for use with teleoperated collaborative robots.
 
 ## 🧠 Project Overview
 
 The gripper uses a latex balloon filled with coffee grounds, vacuum-sealed using a small electric pump to provide adaptive grasping. The modular design supports easy integration with robotic arms such as the Niryo Ned2 and is suitable for educational or research purposes.
-
-## 📦 Contents
-
-pneumatic-jamming-gripper/
-
-├── hardware_design/ # SolidWorks + STL files for gripper & mounts
-
-├── electronics/ # Wiring diagram, BoM
-
-├── control/ # Optional scripts for pneumatic actuation
-
-├── evaluation/ # Gripper testing data (e.g., objects, cycles)
-
-├── docs/ # Setup and usage instructions
-
-└── README.md
 
 ## 🖨️ 3D Printing Instructions
 
@@ -32,18 +16,10 @@ pneumatic-jamming-gripper/
 
 - 1x Latex balloon
 - Ground coffee (filler)
-- Mini vacuum pump (12V DC)
-- Solenoid valve (optional)
+- Mini vacuum pump
 - Pneumatic tubing (6mm)
 - Inline air filter
-- Niryo Ned2 compatible mounting plate
-
-## 🧪 Gripper Performance
-
-- Maximum object weight: ~100g
-- Tested on 5 different object geometries
-- Gripping success rate: 95%+
-- Survived 50+ actuation cycles with no failure
+- Small magnet
 
 ## 📜 License
 
