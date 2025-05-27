@@ -1,4 +1,4 @@
-# Pneumatic Jamming Granular Gripper
+# Pneumatic Granular Jamming Gripper
 
 This repository contains the design files and guide for a low-cost pneumatic granular jamming gripper developed for use with teleoperated collaborative robots.
 
